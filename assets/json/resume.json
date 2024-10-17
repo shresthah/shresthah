@@ -1,36 +1,63 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Hridaya Shrestha",
+    "label": "Cancer Biologist",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
+    "email": "hridayastha@gmail.com",
+    "phone": "(760) 515-1182",
+    "url": "https://hridayashrestha.com.np",
     "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
+      "address": "61 S Main St Apt 2",
+      "postalCode": "06457",
+      "city": "Middletown",
       "countryCode": "US",
-      "region": "California"
+      "region": "Connecticut"
     },
     "profiles": [
       {
         "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "username": "hridayastha",
+        "url": "https://twitter.com/hridayastha"
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "School of Medicine, Wayne State University",
+      "location": "Detroit, USA",
+      "position": "Research Associate",
+      "url": "https://www.med.wayne.edu",
+      "startDate": "2023-01-29",
+      "endDate": "present",
+      "summary": "",
+      "highlights": [
+        "Pancreas Development", "hi"
+      ]
+    },
+    {
+      "name": "School of Medicine, Wayne State University",
+      "location": "Detroit, USA",
+      "position": "Postdoctoral Fellow",
+      "url": "https://www.med.wayne.edu",
+      "startDate": "2018-01-28",
+      "endDate": "2023-01-28",
+      "summary": "",
+      "highlights": [
+        "Pancreatic Ductal Adenocarcinoma, Breast Cancer"
+      ]
+    },
+    {
+      "name": "Department of Drug Administration, Ministry of Health and Population, Government of Nepal",
+      "location": "Kathmandu, Nepal",
+      "position": "Pharmacy Officer",
+      "url": "https://www.dda.gov.np",
+      "startDate": "2010-01-01",
+      "endDate": "2010-07-31",
+      "summary": "Sample collection, inspection and inquiries of the pharmacy outlets in different parts of the country",
+      "highlights": [
+        ""
+      ]
     }
   ],
   "volunteer": [

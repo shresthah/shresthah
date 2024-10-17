@@ -1,0 +1,26 @@
+- title:
+  type: time_table
+  contents:
+    - title: Postdoctoral Research Associate
+      institution: Wayne State University School of Medicine, Detroit, USA
+      year: 2018 - 2024
+      description:
+        - title: "Assisted in supervising and training interns and graduate students in laboratory experiments related to the following projects:"
+          contents:
+            - Pancreatic Cancer
+            - Mammary Gland Development
+            - Mammary Cancer
+    - title: Graduate Teaching Assistant
+      institution: Chonnam National University College of Pharmacy, Gwangju, South Korea
+      year: 2014 - 2017
+      description:
+        - Supported faculty with teaching duties for undergraduate courses, proctoring exams, grading assessments, and supervising practical classes
+
+    - title: Lecturer 
+      institution: Pinnacle Technical College Pvt. Ltd., Lagankhel, Lalitpur, Nepal
+      year: 2008 - 2010
+      description:
+        - title: "Mentored theory classes and supervised the practical lessons of the following courses:"
+          contents:
+            - Pharmaceutical Chemistry [<a href="">Download the Course Curriculum</a>]
+            - Pharmacology [<a href="">Download the Course Curriculum</a>]
