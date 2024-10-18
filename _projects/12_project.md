@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Pancreatic cancer
-description: Role of Jak1 in Pancreatic cancer initiation and progression
-img: assets/img/13.jpeg
-importance: 1
+title: Breast<br>cancer
+description: Jak1 Signaling in Mammary Tumor Progression
+img: assets/img/14.jpg
+importance: 3
 category: work
-related_publications: shrestha2024janus, dennaoui2021models
+related_publications: 
 published: true
 ---
 

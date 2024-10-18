@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Pancreatic cancer
-description: Role of Jak1 in Pancreatic cancer initiation and progression
-img: assets/img/13.jpeg
-importance: 1
+title: δ-catenin<br>ubiquitination
+description: Mechanism of δ-catenin ubiquitination and implication of β-TrCP-1 as a potential E3 ligase
+img: assets/img/16.jpg
+importance: 4
 category: work
-related_publications: shrestha2024janus, dennaoui2021models
+related_publications: 
 published: true
 ---
 

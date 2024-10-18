@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Pancreatic cancer
-description: Role of Jak1 in Pancreatic cancer initiation and progression
-img: assets/img/13.jpeg
-importance: 1
+title: Prostate<br>cancer
+description: Factors affecting adherens junction complexes and function of δ-catenin in cancer
+img: assets/img/16.jpg
+importance: 5
 category: work
-related_publications: shrestha2024janus, dennaoui2021models
+related_publications: 
 published: true
 ---
 
