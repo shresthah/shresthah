@@ -10,9 +10,9 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <center><p>+1 760 515 1182</p>
-    <p>4306 Saint Antoine St</p>
-    <p>Detroit, MI 48201</p></center>
+    <center><p>+1 760 515 1182</p><br>
+    <p>61 S Main St</p>
+    <p>Middletown, CT</p></center>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
