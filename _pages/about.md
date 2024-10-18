@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Research Associate, School of Medicine, Wayne State Unverisity
+subtitle: Molecular and Cell Biologist (Cancer Researcher)
 # subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
@@ -10,9 +10,9 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>+1 760 515 1182</p>
+    <center><p>+1 760 515 1182</p>
     <p>4306 Saint Antoine St</p>
-    <p>Detroit, MI 48201</p>
+    <p>Detroit, MI 48201</p></center>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
