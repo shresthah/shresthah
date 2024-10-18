@@ -6,7 +6,7 @@
     "email": "hridayastha@gmail.com",
     "phone": "(760) 515-1182",
     "url": "https://hridayashrestha.com.np",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "summary": "Detail-oriented and passionate cancer researcher with >10 years of experience in molecular and cell biology. Adaptive team player with in-depth knowledge of cancer cell signaling and genetic mouse models.",
     "location": {
       "address": "61 S Main St Apt 2",
       "postalCode": "06457",
@@ -62,14 +62,32 @@
   ],
   "volunteer": [
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "organization": "MDPI",
+      "location": "",
+      "position": "Reviewer Board Member",
+      "url": "https://www.mdpi.com/",
+      "startDate": "2020-01-01",
+      "endDate": "Present",
+      "summary": "Reviewed papers for the following MDPI journals:",
+      "highlights":["Cells", "Cancers", "International Journal of Molecular Sciences", "Biomolecules", "Medicina", "Journal of Clinical Medicine"]
+    },
+    {
+      "organization": "Elsevier publication",
+      "position": "Ad hoc reviewer",
+      "startDate": "2021-01-01",
+      "endDate": "Present",
+      "summary": "Reviewed papers for the following Elsevier publications:",
+      "highlights": ["Cellular Signalling", "The International Journal of Biochemistry & Cell Biology","European Journal of Cell Biology"]
+    },
+    {
+      "organization": "Pokhara University University Students' Pharma Association",
+      "location": "Pokhara, Nepal",
+      "position": "IPSF-Contact Person",
+      "url": "https://www.ipsf.org",
+      "startDate": "2007-09-01",
+      "endDate": "2008-9-30",
+      "summary": "Facilitated seamless communication, collaboration, and the successful execution of International Pharmaceutical Students'​ Federation(IPSF)'s objectives and initiatives within the local context",
+      "highlights": []
     }
   ],
   "education": [
@@ -87,10 +105,38 @@
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
+      "title": "WooJung Academic Excellence Aid Fund for International Students",
+      "url": "http://www.woojungedu.co.kr/eng_index",
+      "date": "August 2015",
+      "awarder": "WooJung Education and Culture Foundation",
+      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+    },
+    {
+      "title": "Academic Achievement Award",
+      "url": "http://www.woojungedu.co.kr/eng_index",
+      "date": "December 2013",
+      "awarder": "National Institute of Education and Development, Ministry of Education, Science and Technology, South Korea ",
+      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+    },
+    {
+      "title": "Fostering Next Generation Researchers Program Scholarship (학문후속세대장학)",
+      "url": "https://webgs.jnu.ac.kr/Eng/GradResearch/Scholarship02",
+      "date": "January 2013",
+      "awarder": "Chonnam National University",
+      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+    },
+    {
+      "title": "Korean Government Scholarship",
+      "url": "http://www.woojungedu.co.kr/eng_index",
+      "date": "September 2010",
+      "awarder": "National Institute of Education and Development, Ministry of Education, Science and Technology, South Korea ",
+      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+    },
+    {
+      "title": "Dr. Katsuko Komatsu Award",
+      "url": "https://webgs.jnu.ac.kr/Eng/GradResearch/Scholarship02",
+      "date": "August 2008",
+      "awarder": "Pokhara University, Kaski, Nepal",
       "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
     }
   ],
