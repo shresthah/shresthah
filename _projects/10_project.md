@@ -5,7 +5,7 @@ description: Role of Jak1 in Pancriatic cancer initiation and progression
 img: assets/img/12.jpg
 importance: 1
 category: work
-related_publications: shrestha2024janus
+related_publications: shrestha2024janus, dennaoui2021models
 published: true
 ---
 
