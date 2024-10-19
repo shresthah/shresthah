@@ -109,35 +109,33 @@
       "url": "http://www.woojungedu.co.kr/eng_index",
       "date": "August 2015",
       "awarder": "WooJung Education and Culture Foundation",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "summary": "WooJung Education and Culture Foundation, established in 2008, fosters global talent through scholarships, enhancing the educational environment. It biannually awards scholarships to foreign students referred by foreign Embassies in Korea, recognizing their academic excellence. This contributes to national and social development, including countries with historical ties to Korea and those in Southeast Asia, Africa, and Central Asia."
     },
     {
       "title": "Academic Achievement Award",
-      "url": "http://www.woojungedu.co.kr/eng_index",
       "date": "December 2013",
       "awarder": "National Institute of Education and Development, Ministry of Education, Science and Technology, South Korea ",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "summary": "I was granted this award in recognition of my outstanding academic achievements while pursuing my master's degree as a beneficiary of the Korean government scholarship. This award was conferred by the National Institute for International Education, which meticulously identified 33 scholarship recipients based on their exceptional academic performance from a pool of over 700 foreign scholarship students invited by the Korean government from across the nation."
     },
     {
       "title": "Fostering Next Generation Researchers Program Scholarship (학문후속세대장학)",
       "url": "https://webgs.jnu.ac.kr/Eng/GradResearch/Scholarship02",
       "date": "January 2013",
       "awarder": "Chonnam National University",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "summary": "This scholarship program is dedicated to enhancing research capabilities and fostering academic successors representing Chonnam National University. This scholarship supports Ph.D. candidates, with a maximum of eight recipients chosen annually."
     },
     {
       "title": "Korean Government Scholarship",
-      "url": "http://www.woojungedu.co.kr/eng_index",
+      "url": false ,
       "date": "September 2010",
       "awarder": "National Institute of Education and Development, Ministry of Education, Science and Technology, South Korea ",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "summary": "I was among 760 global recipients of the esteemed Korean Government Scholarship for Graduate Studies in 2010. This highly competitive program provided comprehensive financial support and academic opportunities to me, enabling advanced studies in the field of cancer biology and drug discoveries at Chonnam National University, South Korea."
     },
     {
       "title": "Dr. Katsuko Komatsu Award",
-      "url": "https://webgs.jnu.ac.kr/Eng/GradResearch/Scholarship02",
       "date": "August 2008",
       "awarder": "Pokhara University, Kaski, Nepal",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "summary": "For remarkable contribution on crude drug study in B.Pharm. Program"
     }
   ],
   "certificates": [
