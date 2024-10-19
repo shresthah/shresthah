@@ -140,55 +140,55 @@
   ],
   "certificates": [
     {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
+      "name": "Bioinformatics bootcamp: Single Cell Analysis Webinar Series",
+      "date": "2024-05-17",
+      "issuer": "10x Genomics",
+      "url": "",
       "icon": "fa-solid fa-location-dot"
     },
     {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
+      "name": "Introduction to Data Management and Statistical Analysis in R Workshop",
+      "date": "2021-05-24",
+      "issuer": "Wayne State University",
+      "url": "",
       "icon": "fa-solid fa-tag"
     },
     {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
+      "name": "Data Science & Machine Learning With - R (4th Edition)",
+      "date": "2022-10-23",
+      "issuer": "DE‹code > LIFE",
+      "url": "",
       "icon": "fa-solid fa-envelope"
     },
     {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
+      "name": "Data Science & Machine Learning With Python 2024 (8 th Edition)",
+      "date": "2024-05-08",
+      "issuer": "DE‹code > LIFE",
+      "url": "",
       "icon": "fa-solid fa-hashtag"
     },
     {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
+      "name": "Genome Informatics(6 th Edition).",
+      "date": "2024-02-05",
+      "issuer": "DE‹code > LIFE",
+      "url": "",
       "icon": "fa-solid fa-calendar"
     },
     {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
+      "name": "NGS : SEQUENCE TO INSIGHTS",
+      "date": "2024-09-0112",
+      "issuer": "DE‹code > LIFE",
+      "url": "",
       "icon": "fa-solid fa-clipboard-check"
     }
   ],
   "publications": [
     {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
+      "name": "The Janus kinase 1 is critical for pancreatic cancer initiation and progression",
+      "publisher": "Cell Reports",
+      "releaseDate": "2024-05-28",
+      "url": "https://www.cell.com/cell-reports/fulltext/S2211-1247(24)00530-8",
+      "summary": "We demonstrated that JAK1 is a key signaling mediator of cytokines that promote mutant KRAS-induced pancreatic cancer initiation and progression. We provided experimental evidence that deficiency in JAK1 prevents tumor formation, and we identified C/EBPd as acritical downstream effector of the pro-tumorigenic functions of JAK1/ STAT signaling."
     },
     {
       "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
@@ -279,15 +279,21 @@
   ],
   "interests": [
     {
-      "name": "Physics",
+      "name": "Research",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Cancer Biology",
+        "Mouse Models of Cancer",
+        "Oncology Drug Development",
+        "Jak/Stat Signaling",
+        "Factors affecting Adherens Juntion"
+      ]
+    },
+    {
+      "name": "Personal",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "Photography"
       ]
     }
   ],
@@ -295,7 +301,7 @@
     {
       "name": "Professor John Doe",
       "icon": "fa-solid fa-user-tie",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "reference": "Department of Oncology<br>Barbara Ann Karmanos Cancer Institute<br>Wayne State University School of Medicine<br>421 East Canfield, EL01TM <br>Detroit, MI 48201-1976<br>Email: wagnerk@karmanos.org<br><a href"
     },
     {
       "name": "Professor Kim Kwonseop",

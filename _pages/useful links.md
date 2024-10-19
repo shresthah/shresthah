@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Useful Links
+title: useful links
 nav: true
 nav_order: 8
 dropdown: true
