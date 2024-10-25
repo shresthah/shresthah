@@ -41,6 +41,16 @@
       ]
     },
     {
+      "name": "Chonnam National University",
+      "location": "Gwangju, South Korea",
+      "position": "Graduate Teaching Assistant",
+      "url": "",
+      "startDate": "2014",
+      "endDate": "2017",
+      "summary": "Supported faculty with teaching duties for undergraduate courses, proctoring exams, grading assessments, and supervising practical classes",
+      "highlights": []
+    },
+    {
       "name": "Department of Drug Administration, Ministry of Health and Population, Government of Nepal",
       "location": "Kathmandu, Nepal",
       "position": "Regulatory Affairs Pharmacist",
@@ -199,7 +209,7 @@
     },
     {
       "name": "NGS : SEQUENCE TO INSIGHTS",
-      "date": "2024-09-0112",
+      "date": "2024-09-12",
       "issuer": "DE‹code > LIFE",
       "url": "",
       "icon": "fa-solid fa-clipboard-check"
@@ -283,11 +293,11 @@
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Cloning",
-        "DNA and RNA isolation",
-        "PCR and RT-qPCR",
-        "Western blot analysis",
-        "Immuno-precipitation (IP)"
+        "- Cloning",
+        "- DNA and RNA isolation",
+        "- PCR and RT-qPCR",
+        "- Western blot analysis",
+        "- Immuno-precipitation (IP)"
       ]
     },
     {
@@ -295,9 +305,9 @@
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Biosafety Level 2 Pathogens",
-        "Bacterial Cultures",
-        "Transformations"
+        "- Biosafety Level 2 Pathogens",
+        "- Bacterial Cultures",
+        "- Transformations"
       ]
     },
     {
@@ -305,15 +315,15 @@
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Animal husbandry",
-        "Tail tipping and ear tagging",
-        "Intravenous tail vein injection",
-        "Intraperitoneal injection",
-        "Subcutaneous injection",
-        "Oral gavage",
-        "Dissection (lymph nodes, spleen, thymus, pancrease, mammary glands, lungs, liver, prostate)",
-        "Pancreas and mammary gland digestion for flow cytometry",
-        "Orthotopic transplantation"
+        "- Animal husbandry",
+        "- Tail tipping and ear tagging",
+        "- Intravenous tail vein injection",
+        "- Intraperitoneal injection",
+        "- Subcutaneous injection",
+        "- Oral gavage",
+        "- Dissection (lymph nodes, spleen, thymus, pancrease, mammary glands, lungs, liver, prostate)",
+        "- Pancreas and mammary gland digestion for flow cytometry",
+        "- Orthotopic transplantation"
       ]
     },
     {
@@ -321,10 +331,10 @@
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Brightfield microscopy",
-        "Immunohistochemistry",
-        "Immunofluorescence",
-        "Fluorescence microscopy"
+        "- Brightfield microscopy",
+        "- Immunohistochemistry",
+        "- Immunofluorescence",
+        "- Fluorescence microscopy"
       ]
     },
     {
@@ -332,18 +342,18 @@
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Mammalian Cell Culture",
-        "3D Cell Culture",
-        "Stable Cell Line Generation",
-        "Transfection and electroporation",
-        "Retro/Lenti-virus Production/Transduction",
-        "siRNA and shRNA Knockdown",
-        "CRISPR Knockdown",
-        "Cell Proliferation Assay",
-        "Cell Migration Assay",
-        "Cell Viability Assay",
-        "Tumorsphere Assay",
-        "Pancreas Explant Culture"
+        "- Mammalian Cell Culture",
+        "- 3D Cell Culture",
+        "- Stable Cell Line Generation",
+        "- Transfection and electroporation",
+        "- Retro/Lenti-virus Production/Transduction",
+        "- siRNA and shRNA Knockdown",
+        "- CRISPR Knockdown",
+        "- Cell Proliferation Assay",
+        "- Cell Migration Assay",
+        "- Cell Viability Assay",
+        "- Tumorsphere Assay",
+        "- Pancreas Explant Culture"
       ]
     },
     {
