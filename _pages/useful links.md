@@ -5,11 +5,11 @@ nav: true
 nav_order: 8
 dropdown: true
 children:
-  - title: expasyt
-    permalink: /expasyp/
+  - title: "Expasy: Swiss Bioinformatics Resource Portal"
+    permalink: /expasy/
   - title: divider
-  - title: projects
-    permalink: /projects/
+  - title: "PDB: Protein Data Bank"
+    permalink: /pdb/
   - title: divider
   - title: blog
     permalink: /blog/

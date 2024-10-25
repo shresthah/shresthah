@@ -279,57 +279,92 @@
   ],
   "skills": [
     {
-      "name": "Physics",
+      "name": "Molecular Biology",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Cloning",
+        "DNA and RNA isolation",
+        "PCR and RT-qPCR",
+        "Western blot analysis",
+        "Immuno-precipitation (IP)"
       ]
     },
     {
-      "name": "Physics",
+      "name": "Microbiology",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Biosafety Level 2 Pathogens",
+        "Bacterial Cultures",
+        "Transformations"
       ]
     },
     {
-      "name": "Physics",
+      "name": "In vivo Animal Techniques (mouse)",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Animal husbandry",
+        "Tail tipping and ear tagging",
+        "Intravenous tail vein injection",
+        "Intraperitoneal injection",
+        "Subcutaneous injection",
+        "Oral gavage",
+        "Dissection (lymph nodes, spleen, thymus, pancrease, mammary glands, lungs, liver, prostate)",
+        "Pancreas and mammary gland digestion for flow cytometry",
+        "Orthotopic transplantation"
       ]
     },
     {
-      "name": "Physics",
+      "name": "Microscopy",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Brightfield microscopy",
+        "Immunohistochemistry",
+        "Immunofluorescence",
+        "Fluorescence microscopy"
       ]
-    }
+    },
+    {
+      "name": "Tissue culture techniques",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Mammalian Cell Culture",
+        "3D Cell Culture",
+        "Stable Cell Line Generation",
+        "Transfection and electroporation",
+        "Retro/Lenti-virus Production/Transduction",
+        "siRNA and shRNA Knockdown",
+        "CRISPR Knockdown",
+        "Cell Proliferation Assay",
+        "Cell Migration Assay",
+        "Cell Viability Assay",
+        "Tumorsphere Assay",
+        "Pancreas Explant Culture"
+      ]
+    },
+    {
+      "name": "Softwares and Data Analysis tools",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Bioinformatics",
+        "&nbsp;&nbsp;&nbsp;&nbsp;- Bulk RNA-Seq Analysis",
+        "&nbsp;&nbsp;&nbsp;&nbsp;- Single Cell RNA-Seq Analysis",
+        "&nbsp;&nbsp;&nbsp;&nbsp;- ChIP-Seq Analysis",
+        "Softwares",
+        "&nbsp;&nbsp;&nbsp;&nbsp;- FlowJo",
+        "&nbsp;&nbsp;&nbsp;&nbsp;- ImageJ",
+        "&nbsp;&nbsp;&nbsp;&nbsp;- GraphPad Prism",
+        "&nbsp;&nbsp;&nbsp;&nbsp;- SnapGene",
+        "&nbsp;&nbsp;&nbsp;&nbsp;- Endnote",
+        "&nbsp;&nbsp;&nbsp;&nbsp;- Microsoft Office Suite",
+        "&nbsp;&nbsp;&nbsp;&nbsp;- Adobe Illustrator and Photoshop"
+      ]
+  }
   ],
   "languages": [
     {
