@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Breast<br>cancer
-description: Jak1 Signaling in Mammary Tumor Progression
+title: Mammary Gland
+description: Jak1 Signaling in Mammary gland development and tumor Progression
 img: assets/img/14.jpg
 importance: 3
 category: work

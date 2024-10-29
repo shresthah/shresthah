@@ -1,7 +1,6 @@
 ---
 layout: page
-title: Pancreas<br>development
-description: Jak1 Signaling in Mammary Tumor Progression
+title: Role of Jak/Stat Signaling in Pancreas Development and the Initiation and Progression of Pancreatic Cancer
 img: assets/img/15.jpg
 importance: 2
 category: work

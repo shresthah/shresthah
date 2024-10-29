@@ -1,19 +1,24 @@
 ---
 layout: page
-title: Prostate<br>cancer
-description: Factors affecting adherens junction complexes and function of δ-catenin in cancer
+title: Factors affecting adherens junction complexes
+description: Function of δ-catenin in cancer and factors affecting E-cadherin complex
 img: assets/img/16.jpg
 importance: 5
 category: work
-related_publications: 
+related_publications: he2016interaction, shrestha2017hakai, shrestha2018delta
 published: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
-
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+<div style="text-align: justify">
+<i>Chonnam National University, South Korea (2013-2017)</i><br><br>
+<b>Overview</b>
+<br><p>This project focuses on understanding the regulation and function of adherens junction proteins, particularly δ-catenin, in cancer progression. Adherens junctions are critical for maintaining cell-cell adhesion and epithelial integrity. Disruption of these junctions is a hallmark of the epithelial-mesenchymal transition (EMT), a key process driving cancer metastasis.</p>
+<p>The δ-catenin protein is a member of the p120-catenin subfamily and has been found to be overexpressed in various cancers, including prostate, lung, ovarian, and colorectal cancers. Previous work has shown that δ-catenin can promote E-cadherin processing and activate oncogenic β-catenin signaling, suggesting an important role for δ-catenin in cancer progression. This project aims to further elucidate the mechanisms by which δ-catenin is regulated and how it contributes to cancer development and metastasis.</p>
+<p>The project also investigates the role of other adherens junction proteins, such as E-cadherin and p120-catenin, in modulating δ-catenin function and cancer progression. Understanding the interplay between these proteins and their impact on cell-cell adhesion and signaling pathways will provide important insights into the complex regulation of the adherens junction and its implications in cancer. Overall, this project seeks to uncover novel mechanisms underlying the dysregulation of adherens junction proteins and their contribution to the hallmarks of cancer.</p>
+</div>
+<br>
+<b> Key Findings<b><br>
+<li>
 
     ---
     layout: page
