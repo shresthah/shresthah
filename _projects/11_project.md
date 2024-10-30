@@ -22,7 +22,7 @@ To give your project a background in the portfolio page, just add the img tag to
 <li>JAK1 is a key signaling node for STAT3, STAT1, and STAT6 activation in cancer cells.</li><br>
 <li>C/EBPδ executes pro-tumorigenic functions of JAK1/STAT signaling.</li>
 <br>
-<p><div style="text-align: justify"><b>As part of this project, we have observed significant and intriguing roles of JAK/STAT signaling in the early development of the exocrine pancreas and in pancreatitis in adult mice. We are currently preparing a manuscript to present these findings.</b> </div></p>
+<p><div style="text-align: justify"><i>As part of this project, we have observed significant and intriguing roles of JAK/STAT signaling in the early development of the exocrine pancreas and in pancreatitis in adult mice. We are currently preparing a manuscript to present these findings.</i> </div></p>
 
     ---
     layout: page
