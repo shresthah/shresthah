@@ -1,10 +1,11 @@
 ---
 layout: page
 title: Role of Jak/Stat Signaling in Pancreas Development and the Initiation and Progression of Pancreatic Cancer
-img: assets/img/15.jpg
+description: "Advisor: Prof. Kay-Uwe Wagner<br>Wayne State University 2018-2024"
+img: assets/img/13.jpeg
 importance: 2
 category: work
-related_publications: 
+related_publications: shrestha2024janus, dennaoui2021models
 published: true
 ---
 
@@ -13,6 +14,15 @@ It's easy to include images in a flexible 3-column grid format.
 Make your photos 1/3, 2/3, or full width.
 
 To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+
+<br>
+<b> Key Findings<b><br>
+<li>JAK1 deficiency prevents the formation of high-grade preneoplasia and pancreatic tumors.</li><br>
+<li>Pancreatic cancer cells expressing active STAT3 have a higher propensity to metastasize.</li><br>
+<li>JAK1 is a key signaling node for STAT3, STAT1, and STAT6 activation in cancer cells.</li><br>
+<li>C/EBPδ executes pro-tumorigenic functions of JAK1/STAT signaling.</li>
+<br>
+<p><div style="text-align: justify"><b>As part of this project, we have observed significant and intriguing roles of JAK/STAT signaling in the early development of the exocrine pancreas and in pancreatitis in adult mice. We are currently preparing a manuscript to present these findings.</b> </div></p>
 
     ---
     layout: page

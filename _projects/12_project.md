@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Mammary Gland
-description: Jak1 Signaling in Mammary gland development and tumor Progression
+title: Role of Jak/Stat Signaling in Mammary Gland Development and the Initiation and Progression of Mammary Cancer
+description: "Advisor: Prof. Kay-Uwe Wagner<br>Wayne State University 2018-2024"
 img: assets/img/14.jpg
 importance: 3
 category: work
-related_publications: 
+related_publications: wehde2018janus, sakamoto2020efficient, radler2021dual
 published: true
 ---
 
@@ -14,6 +14,13 @@ It's easy to include images in a flexible 3-column grid format.
 Make your photos 1/3, 2/3, or full width.
 
 To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+
+<br>
+<b> Key Findings<b><br>
+<li>Loss of JAK1 prevents metastasis in an ERBB2-induced mammary cancer model.</li><br>
+<li>JAK1 is the pivotal kinase mediating oncogenic STAT activation in ERBB2-transformed cells.</li><br>
+<li>JAK1 signaling has pleiotropic effects on pathways associated with cancer progression.</li><br>
+<li>STAT3, FOS, and MAP3K8 are JAK1 targets that promote migration and tumorsphere formation.</li>
 
     ---
     layout: page

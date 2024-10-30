@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: Molecular and Cell Biologist (Cancer Researcher)
 # subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.

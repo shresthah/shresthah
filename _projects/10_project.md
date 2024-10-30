@@ -6,7 +6,7 @@ img: assets/img/13.jpeg
 importance: 1
 category: work
 related_publications: shrestha2024janus, dennaoui2021models
-published: true
+published: false
 ---
 
 Every project has a beautiful feature showcase page.
