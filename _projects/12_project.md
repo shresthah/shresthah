@@ -15,7 +15,7 @@ published: true
 </div>
 <br>
 <b> Key Findings<b><br>
-<li>Loss of JAK1 prevents metastasis in an ERBB2-induced mammary cancer model.</li><br>
-<li>JAK1 is the pivotal kinase mediating oncogenic STAT activation in ERBB2-transformed cells.</li><br>
-<li>JAK1 signaling has pleiotropic effects on pathways associated with cancer progression.</li><br>
-<li>STAT3, FOS, and MAP3K8 are JAK1 targets that promote migration and tumorsphere formation.</li><br>
+<div style="text-align: justify"><li>Loss of JAK1 prevents metastasis in an ERBB2-induced mammary cancer model.</li></div><br>
+<div style="text-align: justify"><li>JAK1 is the pivotal kinase mediating oncogenic STAT activation in ERBB2-transformed cells.</li></div><br>
+<div style="text-align: justify"><li>JAK1 signaling has pleiotropic effects on pathways associated with cancer progression.</li></div><br>
+<div style="text-align: justify"><li>STAT3, FOS, and MAP3K8 are JAK1 targets that promote migration and tumorsphere formation.</li></div><br>
