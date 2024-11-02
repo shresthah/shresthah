@@ -18,13 +18,17 @@
               {% assign i = i | plus: 1 %}
             {% endfor %}
             <td colspan="{{ i }}" class="list-group-category">
-              <a href="{{ content.url | default: # }}">{{ content.name }}</a>
+              {{ content.name }}
             </td>
           </tr>
           <tr>
             <td></td>
             <td class="list-group-name">
-              <b>{{ content.issuer }}</b>
+              {% if content.url %}
+                <a href="{{ content.url }}"><b>{{ content.issuer }}</b></a>
+              {% else %}
+                <b>{{ content.issuer }}</b>
+              {% endif %}
             </td>
             <td class="list-group-name">{{ content.date }}</td>
           </tr>

@@ -74,7 +74,6 @@
     {
       "organization": "MDPI",
       "position": "Reviewer Board Member",
-      "url": "https://www.mdpi.com/",
       "startDate": "2020",
       "endDate": "Present",
       "summary": "Have been actively reviewing papers for the following MDPI journals:",
@@ -92,7 +91,6 @@
       "organization": "Pokhara University University Students' Pharma Association",
       "location": "Pokhara, Nepal",
       "position": "IPSF-Contact Person",
-      "url": "https://www.ipsf.org",
       "startDate": "2007",
       "endDate": "2008",
       "summary": "Facilitated seamless communication, collaboration, and the successful execution of International Pharmaceutical Students'​ Federation(IPSF)'s objectives and initiatives within the local context",
@@ -143,7 +141,7 @@
       "summary": "WooJung Education and Culture Foundation, established in 2008, fosters global talent through scholarships, enhancing the educational environment. It biannually awards scholarships to foreign students referred by foreign Embassies in Korea, recognizing their academic excellence. This contributes to national and social development, including countries with historical ties to Korea and those in Southeast Asia, Africa, and Central Asia."
     },
     {
-      "title": "Academic Achievement Award",
+      "title": "Korean Government Academic Achievement Award",
       "date": "December 2013",
       "awarder": "National Institute of Education and Development, Ministry of Education, Science and Technology, South Korea ",
       "summary": "I was granted this award in recognition of my outstanding academic achievements while pursuing my master's degree as a beneficiary of the Korean government scholarship. This award was conferred by the National Institute for International Education, which meticulously identified 33 scholarship recipients based on their exceptional academic performance from a pool of over 700 foreign scholarship students invited by the Korean government from across the nation."
@@ -157,7 +155,7 @@
     },
     {
       "title": "Korean Government Scholarship",
-      "url": false ,
+      "url": "http://www.niied.go.kr/user/nd35203.do" ,
       "date": "September 2010",
       "awarder": "National Institute of Education and Development, Ministry of Education, Science and Technology, South Korea ",
       "summary": "I was among 760 global recipients of the esteemed Korean Government Scholarship for Graduate Studies in 2010. This highly competitive program provided comprehensive financial support and academic opportunities to me, enabling advanced studies in the field of cancer biology and drug discoveries at Chonnam National University, South Korea."
@@ -174,42 +172,37 @@
       "name": "Bioinformatics bootcamp: Single Cell Analysis Webinar Series",
       "date": "2024-05-17",
       "issuer": "10x Genomics",
-      "url": "",
       "icon": "fa-solid fa-location-dot"
     },
     {
       "name": "Introduction to Data Management and Statistical Analysis in R Workshop",
       "date": "2021-05-24",
       "issuer": "Wayne State University",
-      "url": "",
       "icon": "fa-solid fa-tag"
     },
     {
       "name": "Data Science & Machine Learning With - R (4th Edition)",
       "date": "2022-10-23",
       "issuer": "DE‹code > LIFE",
-      "url": "",
       "icon": "fa-solid fa-envelope"
     },
     {
       "name": "Data Science & Machine Learning With Python 2024 (8 th Edition)",
       "date": "2024-05-08",
       "issuer": "DE‹code > LIFE",
-      "url": "",
       "icon": "fa-solid fa-hashtag"
     },
     {
       "name": "Genome Informatics(6 th Edition).",
       "date": "2024-02-05",
       "issuer": "DE‹code > LIFE",
-      "url": "",
+      "url": false,
       "icon": "fa-solid fa-calendar"
     },
     {
       "name": "NGS : SEQUENCE TO INSIGHTS",
       "date": "2024-09-12",
       "issuer": "DE‹code > LIFE",
-      "url": "",
       "icon": "fa-solid fa-clipboard-check"
     }
   ],

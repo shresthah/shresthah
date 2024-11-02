@@ -7,12 +7,13 @@ subtitle: Molecular and Cell Biologist (Cancer Researcher)
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic3.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <center><p>+1 760 515 1182</p><br>
-    <p>61 S Main St</p>
-    <p>Middletown, CT</p></center>
+    <center><p>Photo Credit: Brinda Shrestha</p><br>
+    <p>Location: Middletown, Connecticut</p><a href="https://www.linkedin.com/in/your-profile-link" target="_blank">
+      <img src="path_to_linkedin_icon.png" alt="LinkedIn" style="width: 30px; height: 30px;"/>
+    </a></center>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
@@ -25,5 +26,5 @@ social: true # includes social icons at the bottom of the page
 
 I joined Dr. Kay-Uwe Wagner’s lab in early 2018 as a Postdoctoral Fellow. During my time there, I focused my efforts on elucidating the mechanisms regulating the normal development of the mammary gland and pancreas and identifying genetic pathways that control breast and pancreatic cancer development using genetically engineered mouse models. <br><br>
 
-Following my relocation to Connecticut for a family reunion in mid-2024, I took the opportunity to spend meaningful time with my 4-year-old son. Having dedicated this period to my family, <i><u>I am now seeking new professional opportunities and prepared to advance to the next chapter of my scientific career.</u></i> My research interests encompass JAK/STAT signaling in the normal development and inflammatory conditions of the pancreas and mammary gland, cancer cell signaling, and oncology drug development.
+Following my relocation to Connecticut for a family reunion in mid-2024, I took the opportunity to spend meaningful time with my 4-year-old son. Having dedicated this period to my family, <i><u>I am now seeking new professional opportunities and prepared to advance to the next chapter of my scientific career.</u></i> My primary research interests encompass two areas: cellular signaling in the early development of glandular tissues, inflammatory conditions, and cancer progression, and oncology drug development.
 </div><br>
