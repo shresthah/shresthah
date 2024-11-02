@@ -383,7 +383,7 @@ ul.task-list input[type="checkbox"] {
   text-align: center;
 
   .contact-icons {
-    font-size: 4rem;
+    font-size: 3rem; /* Changed from 4rem to a smaller value 2rem to reduce icon size*/
 
     a {
       i::before {
