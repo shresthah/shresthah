@@ -208,8 +208,8 @@ jobs:
       - name: actions-template-sync
         uses: AndreasAugustin/actions-template-sync@v1
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          source_repo_path: alshedivat/al-folio
+          github_token: ${{ LIGHTHOUSE_BADGER_TOKEN }}
+          source_repo_path: hridayastha/hshrestha
           upstream_branch: master
 ```
 
