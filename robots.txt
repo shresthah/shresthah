@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://hridayashrestha.com.np/sitemap.xml
