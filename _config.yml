@@ -132,7 +132,7 @@ bing_site_verification: BF1829D96AEEA3E66727F744DC7A15C1 # out your bing-site-ve
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: FamSci Fusion # blog_name will be displayed in your blog page
+blog_name: # blog_name will be displayed in your blog page
 blog_description: Scientific Moments & Family Frames
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts

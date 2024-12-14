@@ -4,7 +4,7 @@
     "label": "Cancer Biologist",
     "image": "",
     "email": "hridayastha@gmail.com",
-    "phone": "(760) 515-1182",
+    "phone": "",
     "summary": "Detail-oriented and passionate cancer researcher with over 10 years of experience in molecular and cell biology. Adaptive team player with in-depth knowledge of cancer cell signaling and genetic mouse models.",
     "location": {
       "address": "61 S Main St Apt 2",
@@ -111,8 +111,8 @@
       "studyType": "PhD",
       "startDate": "2014",
       "endDate": "2017",
-      "score": "GPA:4.46/4.5",
-      "courses": ["Advisor: Prof. Kim Kwonseop", "Research Focus: Studying the factors affecting adherens junction complexes and function of δ-catenin in cancer", "Dissertation title: Investigation of the molecular mechanism of Hakai-mediated stabilization of δ-catenin"]
+      "score": "",
+      "courses": ["Advisor: Prof. Kim Kwonseop", "Major Courseworks: Cancer Biology, Molecular Biology, Neurodegenerative Diseases, Pharmacology, and Bioinformatics", "GPA: 4.46/4.5", "Research Focus: Studying the factors affecting adherens junction complexes and function of δ-catenin in cancer", "Dissertation title: Investigation of the molecular mechanism of Hakai-mediated stabilization of δ-catenin"]
     },
     {
     "institution": "Chonnam National University",
@@ -122,8 +122,8 @@
     "studyType": "Master of Pharmacy",
     "startDate": "2012",
     "endDate": "2014",
-    "score": "GPA:4.29/4.5",
-    "courses": ["Advisor: Prof. Kim Kwonseop", "Research Focus: Studying the factors affecting adherens junction complexes and function of δ-catenin in cancer", "Thesis title: Hakai, an E3-ligase for E-cadherin, stabilizes δ-catenin and affects E-cadherin complex."]
+    "score": "",
+    "courses": ["Advisor: Prof. Kim Kwonseop", "Major Courseworks: Cancer Biology, Molecular Biology, Neurodegenerative Diseases, Pharmacology, and Bioinformatics", "GPA: 4.29/4.5", "Research Focus: Studying the factors affecting adherens junction complexes and function of δ-catenin in cancer", "Thesis title: Hakai, an E3-ligase for E-cadherin, stabilizes δ-catenin and affects E-cadherin complex."]
     },
     {
     "institution": "Pokhara University",
@@ -133,8 +133,8 @@
     "studyType": "Bachelor of Sciences",
     "startDate": "2004",
     "endDate": "2008",
-    "score": "GPA:3.59/4.00",
-    "courses": ["Major Courses: Molecular Biology, Cell Biology, Pharmacology, Pharmaceutical Chemistry, Biochemistry, Pharmaceutics; and Anatomy and Physiology"]
+    "score": "",
+    "courses": ["GPA: 3.59/4.00", "Major Courseworks: Molecular Biology, Cell Biology, Pharmacology, Pharmaceutical Chemistry, Biochemistry, Pharmaceutics; and Anatomy and Physiology"]
     }
   ],
   "awards": [
