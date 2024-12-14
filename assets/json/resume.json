@@ -44,12 +44,16 @@
     {
       "name": "Chonnam National University",
       "location": "Gwangju, South Korea",
-      "position": "Graduate Teaching Assistant",
-      "url": "",
-      "startDate": "2014",
+      "position": "Graduate Student",
+      "url": "https://global.jnu.ac.kr/jnumain_en.aspx",
+      "startDate": "2012",
       "endDate": "2017",
-      "summary": "Supported faculty with teaching duties for undergraduate courses, proctoring exams, grading assessments, and supervising practical classes",
-      "highlights": []
+      "summary": "Studied the factors affecting adherens junction complexes and function of δ-catenin in cancer and Alzheimer's disease",
+      "highlights": [
+        "Conducted extensive molecular biology experiments to investigate factors affecting adherens junction complexes and the function of δ-catenin in cancer, contributing to an enhanced understanding of cancer progression and resulting in three first-authored peer-reviewed publications, two co-authored papers, and multiple conference presentations, demonstrating effective communication and presentation skills.",
+        "Collaborated with multidisciplinary teams on projects investigating the role of δ-catenin in Alzheimer’s disease, enhancing understanding of its involvement and contributing valuable insights to interdisciplinary research efforts.",
+        "Supported faculty in teaching undergraduate courses through conducting proctoring of exams, grading assessments, and supervising practical classes, facilitating effective course administration and enriching the educational experience for students."
+      ]
     },
     {
       "name": "Department of Drug Administration, Ministry of Health and Population, Government of Nepal",
@@ -58,7 +62,7 @@
       "url": "https://www.dda.gov.np",
       "startDate": "2010",
       "endDate": "2010",
-      "summary": "Sample collection, inspection and inquiries of the pharmacy outlets in different parts of the country",
+      "summary": "Conducted sample collection, inspections, and inquiries at pharmacy outlets across various regions of the country to ensure compliance with regulatory standards.",
       "highlights": []
     },
     {
@@ -67,7 +71,7 @@
       "position": "Lecturer",
       "startDate": "2008",
       "endDate": "2010",
-      "summary": "Mentored theory classes and supervised the practical lessons of Pharmaceutical Chemistry and Pharmacology",
+      "summary": "Mentored and supervised Diploma in Pharmacy students by conducting theory classes and overseeing practical lessons in Pharmaceutical Chemistry and Pharmacology for 2nd and 3rd-year students, each class containing 35+ students, resulting in a 100% pass rate in board exams for each taught subject and significantly enhancing their understanding and practical skills.",
       "highlights": []
     }
   ],
@@ -107,7 +111,7 @@
       "studyType": "PhD",
       "startDate": "2014",
       "endDate": "2017",
-      "score": "",
+      "score": "GPA:4.46/4.5",
       "courses": ["Advisor: Prof. Kim Kwonseop", "Research Focus: Studying the factors affecting adherens junction complexes and function of δ-catenin in cancer", "Dissertation title: Investigation of the molecular mechanism of Hakai-mediated stabilization of δ-catenin"]
     },
     {
@@ -118,7 +122,7 @@
     "studyType": "Master of Pharmacy",
     "startDate": "2012",
     "endDate": "2014",
-    "score": "",
+    "score": "GPA:4.29/4.5",
     "courses": ["Advisor: Prof. Kim Kwonseop", "Research Focus: Studying the factors affecting adherens junction complexes and function of δ-catenin in cancer", "Thesis title: Hakai, an E3-ligase for E-cadherin, stabilizes δ-catenin and affects E-cadherin complex."]
     },
     {
@@ -129,8 +133,8 @@
     "studyType": "Bachelor of Sciences",
     "startDate": "2004",
     "endDate": "2008",
-    "score": "",
-    "courses": []
+    "score": "GPA:3.59/4.00",
+    "courses": ["Major Courses: Molecular Biology, Cell Biology, Pharmacology, Pharmaceutical Chemistry, Biochemistry, Pharmaceutics; and Anatomy and Physiology"]
     }
   ],
   "awards": [
@@ -165,7 +169,7 @@
       "title": "Dr. Katsuko Komatsu Award",
       "date": "August 2008",
       "awarder": "Pokhara University, Kaski, Nepal",
-      "summary": "For remarkable contribution on crude drug study in B.Pharm. Program"
+      "summary": "I was awarded Dr. Katsuko Komatsu Award for significant contributions to the study of crude drugs in the Bachelor of Pharmacy program."
     }
   ],
   "certificates": [
