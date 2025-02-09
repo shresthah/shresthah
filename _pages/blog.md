@@ -26,7 +26,7 @@ pagination:
   <div class="header-bar">
     <h1>{{ site.blog_name }}</h1>
     <h2>{{ site.blog_description }}</h2>
-     <p style="text-align:justify"><br><i><b>About FamSci Fusion:</b><br>
+     <p style="text-align:justify"><br><i><b></b><br>
       Welcome to my blog! I am a scientist and a proud parent, finding joy in both realms. Here, you'll find a blend of scientific insights and treasured family moments. Thank you for stopping by. I can’t wait to share more with you! </i></p>
   </div>
   {% endif %}
